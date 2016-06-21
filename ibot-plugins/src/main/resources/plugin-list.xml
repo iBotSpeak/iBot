@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin-list>
+    <plugin class="pl.themolka.ibot.plugins.welcomemessage.WelcomeMessagePlugin" name="WelcomeMessage" version="1.0" />
+</plugin-list>

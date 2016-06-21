@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings level="0">
+    <instances>
+        <include file="instances.xml" />
+    </instances>
+
+    <plugins>
+        <include file="plugins.xml" />
+    </plugins>
+
+    <database>
+        <include file="database.xml" />
+    </database>
+
+    <query>
+        <encoding>UTF-8</encoding>
+    </query>
+</settings>

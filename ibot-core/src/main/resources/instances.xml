@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<instances>
+    <server id="local-server" host="localhost" port="10011">
+        <login username="serveradmin" password="password" />
+        <select id="1" virtual="false" />
+
+        <settings>
+            <encoding>UTF-8</encoding>
+        </settings>
+    </server>
+</instances>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <connection provider="Custom">
+        <driver>com.mysql.jdbc.Driver</driver>
+        <url>jdbc:mysql://127.0.0.1:3306/database</url>
+        <username>root</username>
+        <password>password</password>
+    </connection>
+
+    <connection provider="MySQL">
+        <host>localhost</host>
+        <port>3306</port>
+        <database>database</database>
+        <username>root</username>
+        <password>password</password>
+    </connection>
+
+    <connection provider="PostgreSQL">
+        <host>localhost</host>
+        <port>5432</port>
+        <database>database</database>
+        <username>root</username>
+        <password>password</password>
+    </connection>
+
+    <connection provider="SQLite">
+        <file>ibot.db</file>
+    </connection>
+</database>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin main="pl.themolka.ibot.plugins.example.ExamplePlugin">
+    <name>ExamplePlugin</name>
+    <version>1.0-SNAPSHOT</version>
+</plugin>
